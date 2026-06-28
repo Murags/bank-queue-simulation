@@ -1,0 +1,5 @@
+# Compiled Java class files
+*.class
+
+# OS / editor cruft
+.DS_Store
