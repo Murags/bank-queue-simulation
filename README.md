@@ -1,5 +1,17 @@
 # Bank Queue Simulation
 
+## Group Members
+
+| Name | Reg. No. |
+|------|----------|
+| Dennis Murage | 139360 |
+| Kristina Kemoi | 168652 |
+| Neema Mapelu | 150176 |
+| Cindy Ogutu | 158842 |
+| Janny Jonyo | 166885 |
+
+---
+
 A Java (Swing) discrete-event simulation of a **single-server bank queue**.
 
 Inter-arrival times are uniformly distributed on **[1, 8] minutes** and service
